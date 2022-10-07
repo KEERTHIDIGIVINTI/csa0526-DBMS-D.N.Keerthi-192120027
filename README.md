@@ -29,3 +29,29 @@
 ## Experiment 8
 
 [SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp8.txt
+
+## Experiment 10
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/EXP%2010.txt
+
+## Experiment 11
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp11.txt
+
+## Experiment 13
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp13.txt
+
+
+## Experiment 14
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp14.txt
+
+
+## Experiment 15
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp15.txt
+
+
+
+
