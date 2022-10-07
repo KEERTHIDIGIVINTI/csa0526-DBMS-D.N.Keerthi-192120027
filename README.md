@@ -52,6 +52,22 @@
 
 [SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp15.txt
 
+## Experiment 1
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp1.txt
+
+
+
+
+## Experiment 17
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp17.txt
+
+
+
+## Experiment 18
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp18.txt
 
 
 
