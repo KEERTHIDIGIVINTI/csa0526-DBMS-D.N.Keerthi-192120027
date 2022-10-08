@@ -32,7 +32,7 @@
 
 ## Experiment 10
 
-[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/EXP%2010.txt
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp10.txt
 
 ## Experiment 11
 
@@ -83,7 +83,7 @@
 
 ## Experiment 22
 
-[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp20.txt
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp22.txt
 
 
 
