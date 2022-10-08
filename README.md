@@ -83,5 +83,50 @@
 
 ## Experiment 22
 
-[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp22.txt
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp20.txt
+
+
+
+## Experiment 16
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp16.txt
+
+
+
+
+## Experiment 19
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp19.txt
+
+
+
+
+## Experiment 21
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp21.txt
+
+
+
+
+## Experiment 23
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp23.txt
+
+
+
+
+## Experiment 24
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp24.txt
+
+
+
+
+## Experiment 25
+
+[SQL Queries]https://github.com/KEERTHIDIGIVINTI/csa0526-DBMS-D.N.Keerthi-192120027/blob/main/exp25.txt
+
+
+
+
 
